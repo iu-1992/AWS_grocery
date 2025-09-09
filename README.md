@@ -31,8 +31,6 @@
 
 ## 🚀 Overview
 
-GroceryMate is an application developed as part of the Masterschools program by **Alejandro Roman Ibanez**. It is a modern, full-featured e-commerce platform designed for seamless online grocery shopping. It provides an intuitive user interface and a secure backend, allowing users to browse products, manage their shopping basket, and complete purchases efficiently.
-
 GroceryMate is a modern, full-featured e-commerce platform designed for seamless online grocery shopping. It provides an intuitive user interface and a secure backend, allowing users to browse products, manage their shopping basket, and complete purchases efficiently.
 
 ## 🛒 Features
@@ -69,7 +67,7 @@ Ensure the following dependencies are installed before running the application:
 ### 🔹 Clone Repository
 
 ```sh
-git clone --branch version2 https://github.com/AlejandroRomanIbanez/AWS_grocery.git && cd AWS_grocery
+git clone --branch version2 https://github.com/iu-1992/AWS_grocery.git && cd AWS_grocery
 ```
 
 ### 🔹 Configure PostgreSQL
@@ -169,7 +167,3 @@ We welcome contributions! Please follow these steps:
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-
-
-
